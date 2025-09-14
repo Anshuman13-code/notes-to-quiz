@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Yes-orange)
+![License](https://img.shields.io/badge/License-None-lightgrey)
+![GitHub Repo](https://img.shields.io/badge/GitHub-Public-green)
+
 # 📚 Notes → Quiz Generator 
 
 This is a Streamlit app that generates **5 multiple-choice questions** from lecture notes using the Gemini (or OpenAI) API.
