@@ -2,3 +2,4 @@ api.env
 __pycache__/
 *.pyc
 
+api.env
